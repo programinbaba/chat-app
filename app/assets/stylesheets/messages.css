@@ -36,9 +36,12 @@
   overflow: scroll;
 }
 
-.room p {
-  color: white;
+.room {
   padding: 20px 0 40px;
+}
+
+.room-name a {
+  color: white;
 }
 
 .chat {
